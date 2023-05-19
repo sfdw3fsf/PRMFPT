@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ip1">#66FFFFFF</color>
+    <color name="ip2">#40FFFFFF</color>
+</resources>

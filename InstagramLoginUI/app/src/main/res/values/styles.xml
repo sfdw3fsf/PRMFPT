@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TransparentButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/instagram_button_background</item>
+    </style>
+
+</resources>
